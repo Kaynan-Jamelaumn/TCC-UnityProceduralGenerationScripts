@@ -58,7 +58,7 @@ Mobs use a **Finite State Machine (FSM)** to control their behavior.
   - **Wandering** → Moving randomly within a defined area.
   - **Chasing** → Following the player if detected.
   - **Attacking** → Engaging in combat.
-  - **Fleeing** → Running away if health is low.
+
 
 Using FSMs makes AI behavior more predictable and easier to modify.
 
